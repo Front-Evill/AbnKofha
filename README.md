@@ -1,32 +1,52 @@
 <p align="center">
-  <img src="https://files.catbox.moe/ovov8l.png" alt="FrontEvill Tool Menu" width="800">
+  <img src="https://files.catbox.moe/ovov8l.png" alt="FrontEvill Main Menu" width="800">
 </p>
 
 <p align="center">
   <strong>Developed by FrontEvill</strong><br>
   Version 1.2.0
 </p>
-# FAQ
-## what this tool?
-- It's clear from the pictures /:
-## How to download? 
-- in [discord](https://discord.gg/Q5NMsXMZA9) you can Get all updates, support and apps(exe)
-- you can download by this link: 
-- or You can browse the files of this section and you will find the program in the format exe
-## What can I do if something goes wrong?
-- You can review Discord and view the error and we will review the problem
-- There may be an error that occurs because you have not made the program fully functional
-## Is the device affected on my device?
-- In any case, someone will tell you no, but he may lie, in any case, she is not harming or spying on you
-- The program can be run in a dummy environment
-# Advice and Notes 
-- See the file config.JSON mode is required to make it easier for you to work
-- Check Discord for updates
-- In case you do not trust the program, you can enter the Discord server and put 2 of the enhancements and get the full source, edit and run
-- In case you have a c# or python source, we can make it exe for you and you will also find explanations
-# Social
-discord: https://discord.gg/Q5NMsXMZA9
-tiktok: @frontevill
-YouTube: @frontevill
-profile: https://f18y.netlify.app/
-discord user: @f18y
+
+<p align="center">
+  <a href="https://discord.gg/Q5NMsXMZA9">Discord Server</a> •
+  <a href="https://f18y.netlify.app/">Website</a>
+</p>
+
+---
+
+## FAQ
+
+### What is this tool?
+
+It's a Discord server management tool. Check the screenshots above to see its interface and available features.
+
+### How can I download it?
+
+- Join our [Discord server](https://discord.gg/Q5NMsXMZA9) to get updates, support, and application releases.
+- You can also browse the repository files to find the available `.exe` release.
+
+### What should I do if something goes wrong?
+
+- Join our Discord server and share the error message so we can investigate the problem.
+- Make sure the application is configured correctly and that all required files are present.
+
+### Can this program affect my device?
+
+No software should be considered completely safe without verification. Only run the application if you trust its source, and consider testing it in an isolated virtual machine.
+
+Do not enter sensitive information into software you do not trust.
+
+## Advice & Notes
+
+- Check `config.json` if the application requires configuration.
+- Visit our Discord server for updates and support.
+- If you do not trust the executable, you can request access to the source code through our Discord server. Access may be subject to approval.
+- If you have C# or Python source code and need help packaging it into an executable, contact us through Discord. Tutorials may also be available.
+
+## Socials
+
+- **Discord:** https://discord.gg/Q5NMsXMZA9
+- **TikTok:** [@frontevill](https://www.tiktok.com/@frontevill)
+- **YouTube:** [@frontevill](https://www.youtube.com/@frontevill)
+- **Website:** https://f18y.netlify.app/
+- **Discord User:** `@f18y`
